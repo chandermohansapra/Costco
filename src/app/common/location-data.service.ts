@@ -9,7 +9,8 @@ export class LocationDataService {
 
   LocationData = [
     { "id" : 1, "Name" : "Mississauga"},
-    { "id" : 2, "Name" : "Brampton"}
+    { "id" : 2, "Name" : "Brampton"},
+    { "id" : 3, "Name" : "Orangeville"}
 
   ]
 }
