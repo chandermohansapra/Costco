@@ -6,4 +6,10 @@ import { Injectable } from '@angular/core';
 export class LocationDataService {
 
   constructor() { }
+
+  LocationData = [
+    { "id" : 1, "Name" : "Mississauga"},
+    { "id" : 2, "Name" : "Brampton"}
+
+  ]
 }
